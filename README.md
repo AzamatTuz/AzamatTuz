@@ -55,6 +55,8 @@ Online platform for passing tests and checking knowledge.
 `React` • `Firebase` • `REST API`
 
 ✨ Features:
+
+- FSD
 - Authentication
 - Test system
 - Data storage
