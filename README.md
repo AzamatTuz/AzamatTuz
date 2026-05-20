@@ -24,7 +24,7 @@
 📝 Exams Web Site  
 Online platform for passing tests and checking knowledge  
 
-🔹 Built with: HTML, CSS, JavaScript  
+🔹 Built with: React + Firebase 
 👉 https://github.com/AzamatTuz/exams-web-site  
 
 ---
