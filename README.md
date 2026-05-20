@@ -21,7 +21,7 @@
 
 ## 🛠️ Tools & Software
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop&perline=6)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop,postman&perline=7)
 
 ---
 
@@ -36,7 +36,7 @@
 ### 📝 Exams Web Site
 Online platform for passing tests and checking knowledge
 
-**Built with:** React + Firebase
+**Built with:** React + Firebase + REST API
 
 👉 [View Project](https://github.com/AzamatTuz/exams-web-site)
 
