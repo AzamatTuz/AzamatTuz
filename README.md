@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 - 🌱 Learning programming step by step
 - ⚛️ Focused on React ecosystem
 - 🔥 Building real projects with REST API and Firebase
