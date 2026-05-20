@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Azamat</h1>
 <p align="center">
-  Junior Frontend Developer<br>
+  Frontend Developer<br>
   Building web applications with React & Firebase 🚀
 </p>
 
