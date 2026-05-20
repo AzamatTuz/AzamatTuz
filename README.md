@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 JavaScript / Python  
+- 💻 JavaScript 
 - 🌐 HTML / CSS  
 - ⚙️ Git, GitHub, VS Code  
 
@@ -26,11 +26,6 @@ Online platform for passing tests and checking knowledge
 
 🔹 Built with: HTML, CSS, JavaScript  
 👉 https://github.com/AzamatTuz/exams-web-site  
-
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AzamatTuz&show_icons=true)
 
 ---
 
