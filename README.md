@@ -15,16 +15,24 @@
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,git,firebase,vscode,webstorm,figma,photoshop&perline=7)
+![Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,firebase&perline=7)
+
+---
+
+## 🛠️ Tools & Software
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop&perline=6)
 
 ---
 
 ## 📂 Projects
-**📝 Exams Web Site**  
-Online platform for passing tests and checking knowledge  
 
-**Built with:** React + Firebase  
-👉 https://github.com/AzamatTuz/exams-web-site
+### 📝 Exams Web Site
+Online platform for passing tests and checking knowledge
+
+**Built with:** React + Firebase
+
+👉 [github.com/AzamatTuz/exams-web-site](https://github.com/AzamatTuz/exams-web-site)
 
 ---
 
