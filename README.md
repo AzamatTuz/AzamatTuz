@@ -19,7 +19,15 @@ Building web applications and improving every day 🚀
 ## ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,html,css,firebase,tailwind,git,github,vscode,figma,photoshop,postman" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,firebase,tailwind" />
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,ps,postman" />
 </p>
 
 ---
@@ -64,14 +72,6 @@ Online platform for passing tests and checking knowledge.
 - 📦 TypeScript
 - 🌍 Build production-ready apps
 - 💼 Get commercial experience
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,ps" />
-</p>
 
 ---
 
