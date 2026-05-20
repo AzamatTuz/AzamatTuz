@@ -1,28 +1,31 @@
 # 👋 Hi, I'm Azamat
 
 💻 Junior Developer  
-🚀 Passionate about programming and building real projects  
-🎯 Focused on growing my skills and becoming a strong developer  
+🚀 I build web projects and improve my skills every day  
+🎯 Goal: become a strong developer and work on real-world projects  
 
 ---
 
 ## 🧠 About me
-- 📚 Currently learning programming and improving every day  
-- 🔍 Interested in web development / software development  
-- ⚡ Like solving problems and creating useful things  
+- 📚 Learning programming step by step  
+- 🌐 Focused on web development  
+- ⚡ Enjoy building simple but useful applications  
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: JavaScript / Python  
-- 🌐 Web: HTML, CSS  
-- ⚙️ Tools: Git, GitHub, VS Code  
+- 💻 JavaScript / Python  
+- 🌐 HTML / CSS  
+- ⚙️ Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects
-🚧 Projects are coming soon...  
-I’m currently working on improving my skills and will upload real projects here  
+📝 Exams Web Site  
+Online platform for passing tests and checking knowledge  
+
+🔹 Built with: HTML, CSS, JavaScript  
+👉 https://github.com/AzamatTuz/exams-web-site  
 
 ---
 
@@ -32,9 +35,9 @@ I’m currently working on improving my skills and will upload real projects her
 ---
 
 ## 📫 Contact
-- Telegram: @azamat0_z
-- Email: tuzelbajazamat361@gmail.com
+- Telegram: @azamat0_z  
+- Email: tuzelbajazamat361@gmail.com  
 
 ---
 
-⚡ Always learning. Always building.
+⚡ Learning by doing. Building step by step.
