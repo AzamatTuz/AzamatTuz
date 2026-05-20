@@ -14,9 +14,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 JavaScript 
+- 💻 JavaScript | React | Vue (learning) | TypeScript (learning)
 - 🌐 HTML / CSS  
-- ⚙️ Git, GitHub, VS Code  
+- ⚙️ Git, GitHub, VS Code, WebStorm, Figma, Photoshop  
 
 ---
 
