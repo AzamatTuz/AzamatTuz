@@ -70,7 +70,7 @@ Online platform for passing tests and checking knowledge.
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,figma,ps" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,ps" />
 </p>
 
 ---
