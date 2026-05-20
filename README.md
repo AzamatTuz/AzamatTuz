@@ -1,51 +1,87 @@
-# 👋 Hi, I'm Azamat
+<h1 align="center">👋 Hi, I'm Azamat</h1>
 
-💻 Junior Developer  
-🚀 I build web projects and improve my skills every day  
-🎯 Goal: become a strong developer and work on real-world projects
-
----
-
-## 🧠 About me
-- 📚 Learning programming step by step
-- 🌐 Focused on web development
-- ⚡ Enjoy building simple but useful applications
+<p align="center">
+Frontend Developer focused on React ecosystem <br>
+Building web applications and improving every day 🚀
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-![Tech Stack](https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,firebase&perline=7)
+- 🌱 Learning programming step by step
+- ⚛️ Focused on React development
+- 🔥 Building real projects with APIs & Firebase
+- 🎯 Goal: Become a strong frontend developer and work on real-world products
 
 ---
 
-## 🛠️ Tools & Software
+## ⚡ Tech Stack
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop,postman&perline=7)
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,vue,html,css,firebase,tailwind,git,github,vscode,figma,photoshop" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-![Currently Learning](https://skillicons.dev/icons?i=typescript,vue&perline=4)
+<p>
+<img src="https://skillicons.dev/icons?i=ts,vue" />
+</p>
+
+- TypeScript
+- Vue
+- Better frontend architecture
+- Clean code practices
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Project
 
-### 📝 Exams Web Site
-Online platform for passing tests and checking knowledge
+### 📝 Exams Web App
 
-**Built with:** React + Firebase + REST API
+Online platform for passing tests and checking knowledge.
 
-👉 [View Project](https://github.com/AzamatTuz/exams-web-site)
+**Stack:**
+`React` • `Firebase` • `REST API`
+
+✨ Features:
+- Authentication
+- Test system
+- Data storage
+- Responsive UI
+
+🔗 Project:
+[View Project](ТВОЯ_ССЫЛКА)
 
 ---
 
-## 📫 Contact
-- Telegram: [@azamat0_z](https://t.me/azamat0_z)
-- Email: tuzelbajazamat361@gmail.com
+## 📈 Goals for 2026
+
+- 🔥 Strong React
+- ⚡ Deep JavaScript knowledge
+- 📦 TypeScript
+- 🌍 Build production-ready apps
+- 💼 Get commercial experience
 
 ---
 
-⚡ Learning by doing. Building step by step.
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,figma,ps" />
+</p>
+
+---
+
+## 📬 Contact
+
+📩 Email: **tuzelbaizamr361@gmail.com**  
+💬 Telegram: **@azamat0_z**
+
+---
+
+<p align="center">
+⚡ Learning by building. Improving every day.
+</p>
