@@ -2,37 +2,35 @@
 
 💻 Junior Developer  
 🚀 I build web projects and improve my skills every day  
-🎯 Goal: become a strong developer and work on real-world projects  
+🎯 Goal: become a strong developer and work on real-world projects
 
 ---
 
 ## 🧠 About me
-- 📚 Learning programming step by step  
-- 🌐 Focused on web development  
-- ⚡ Enjoy building simple but useful applications  
+- 📚 Learning programming step by step
+- 🌐 Focused on web development
+- ⚡ Enjoy building simple but useful applications
 
 ---
 
 ## 🛠️ Tech Stack
-- 💻 JavaScript | React | Vue (learning) | TypeScript (learning)
-- 🌐 HTML / CSS  
-- ⚙️ Git, GitHub, VS Code, WebStorm, Figma, Photoshop  
+
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,git,firebase,vscode,webstorm,figma,photoshop&perline=7)
 
 ---
 
 ## 📂 Projects
-📝 Exams Web Site  
+**📝 Exams Web Site**  
 Online platform for passing tests and checking knowledge  
 
-🔹 Built with: React + Firebase 
-👉 https://github.com/AzamatTuz/exams-web-site  
+**Built with:** React + Firebase  
+👉 https://github.com/AzamatTuz/exams-web-site
 
 ---
 
 ## 📫 Contact
-- Telegram: @azamat0_z  
-- Email: tuzelbajazamat361@gmail.com  
+- Telegram: [@azamat0_z](https://t.me/azamat0_z)
+- Email: tuzelbajazamat361@gmail.com
 
 ---
-
 ⚡ Learning by doing. Building step by step.
