@@ -25,6 +25,12 @@
 
 ---
 
+## 📚 Currently Learning
+
+![Currently Learning](https://skillicons.dev/icons?i=typescript,vue&perline=4)
+
+---
+
 ## 📂 Projects
 
 ### 📝 Exams Web Site
