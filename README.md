@@ -19,7 +19,7 @@ Building web applications and improving every day 🚀
 ## ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,vue,html,css,firebase,tailwind,git,github,vscode,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,firebase,tailwind,git,github,vscode,figma,photoshop,postman" />
 </p>
 
 ---
