@@ -32,7 +32,7 @@ Online platform for passing tests and checking knowledge
 
 **Built with:** React + Firebase
 
-👉 [github.com/AzamatTuz/exams-web-site](https://github.com/AzamatTuz/exams-web-site)
+👉 [View Project](https://github.com/AzamatTuz/exams-web-site)
 
 ---
 
@@ -41,4 +41,5 @@ Online platform for passing tests and checking knowledge
 - Email: tuzelbajazamat361@gmail.com
 
 ---
+
 ⚡ Learning by doing. Building step by step.
