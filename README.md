@@ -15,7 +15,7 @@
 ---
 
 ## ⚡ Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=js,react,html,css,firebase,tailwind&perline=6)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind&perline=6)
 
 ---
 
