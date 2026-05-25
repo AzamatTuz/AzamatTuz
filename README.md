@@ -1,30 +1,30 @@
 <h1 align="center">👋 Hi, I'm Azamat</h1>
 <p align="center">
   Frontend Developer<br>
-  Building web applications with React & Firebase 🚀
+  Building web applications with React & Firebase
 </p>
 
 ---
 
 ## About Me
-- 🌱 Learning programming step by step
-- ⚛️ Focused on React ecosystem
-- 🔥 Building real projects with REST API and Firebase
-- 🎯 Goal: Become a strong frontend developer
+- Learning programming step by step
+- Focused on React ecosystem
+- Building real projects with REST API and Firebase
+- Goal: Become a strong frontend developer
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind&perline=6)
 
 ---
 
-## 🛠 Tools
+## Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop,postman&perline=7)
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 ![Learning](https://skillicons.dev/icons?i=ts,vue&perline=4)
 
 - TypeScript
@@ -34,9 +34,9 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 📝 Exams Web App
+### Exams Web App
 Online platform for passing tests and checking knowledge.
 
 **Stack:** `React` • `Firebase` • `REST API`
@@ -48,11 +48,11 @@ Online platform for passing tests and checking knowledge.
 - Responsive design
 - FSD architecture
 
-👉 **[View Project](https://github.com/AzamatTuz/exams-web-site)**
+ **[View Project](https://github.com/AzamatTuz/exams-web-site)**
 
 ---
 
-## 📈 Goals for 2026
+## Goals for 2026
 - Master React & TypeScript
 - Build production-ready applications
 - Gain commercial experience
@@ -60,12 +60,12 @@ Online platform for passing tests and checking knowledge.
 
 ---
 
-## 📬 Contact
+## Contact
 - 📩 Email: [tuzelbajazamat361@gmail.com](mailto:tuzelbajazamat361@gmail.com)
 - 💬 Telegram: [@azamat0_z](https://t.me/azamat0_z)
 
 ---
 
 <p align="center">
-  ⚡ Learning by building. Improving every day.
+ Learning by building. Improving every day.
 </p>
