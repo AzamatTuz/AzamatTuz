@@ -25,7 +25,7 @@
 ---
 
 ## Currently Learning
-![Learning](https://skillicons.dev/icons?i=ts,vue&perline=4)
+![Learning](https://skillicons.dev/icons?i=ts&perline=4)
 
 - TypeScript
 - Vue.js
