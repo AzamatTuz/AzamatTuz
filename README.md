@@ -1,71 +1,110 @@
 <h1 align="center">👋 Hi, I'm Azamat</h1>
+
 <p align="center">
-  Frontend Developer<br>
-  Building web applications with React & Firebase
+Frontend Developer <br/>
+Building modern web applications with React & TypeScript
 </p>
 
 ---
 
-## About Me
-- Learning programming step by step
-- Focused on React ecosystem
-- Building real projects with REST API and Firebase
-- Goal: Become a strong frontend developer
+## 🚀 About Me
+
+* Building modern frontend applications with React and TypeScript
+* Focused on scalable architecture and clean code
+* Working with REST APIs, Zustand and Firebase
+* Continuously learning modern frontend technologies
+* Open to new challenges and real-world projects
 
 ---
 
-## Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind&perline=6)
+## 🛠️ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,firebase\&perline=7)
+
+### State Management & Routing
+
+* Zustand
+* React Router
 
 ---
 
-## Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,photoshop,postman&perline=7)
+## ⚙️ Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma,postman\&perline=6)
 
 ---
 
-## Currently Learning
-![Learning](https://skillicons.dev/icons?i=ts&perline=4)
+## 📚 Currently Learning
 
-- TypeScript
-- Vue.js
-- Feature-Sliced Design (FSD)
-- Clean Architecture & best practices
+![Learning](https://skillicons.dev/icons?i=nextjs\&perline=4)
+
+* Next.js
+* React Query
+* Advanced TypeScript
+* Frontend Architecture
+* Feature-Sliced Design (FSD)
 
 ---
 
-## Featured Project
+## 🌟 Featured Projects
 
-### Exams Web App
-Online platform for passing tests and checking knowledge.
+### 🚀 User Manager TS
 
-**Stack:** `React` • `Firebase` • `REST API`
+Modern user management application built with React, TypeScript and Zustand.
+
+**Stack:**
+React • TypeScript • Zustand • Tailwind CSS • Axios • React Router
 
 **Features:**
-- Authentication
-- Test system with real-time checking
-- Data storage
-- Responsive design
-- FSD architecture
 
- **[View Project](https://github.com/AzamatTuz/exams-web-site)**
+* CRUD operations
+* Search users
+* Dynamic routing
+* Dark / Light theme
+* Zustand Persist
+* API integration
+* Custom Hooks
 
----
-
-## Goals for 2026
-- Master React & TypeScript
-- Build production-ready applications
-- Gain commercial experience
-- Improve system design skills
+🔗 **[View Project](https://github.com/AzamatTuz/user-manager-tsx.git)**
 
 ---
 
-## Contact
-- 📩 Email: [tuzelbajazamat361@gmail.com](mailto:tuzelbajazamat361@gmail.com)
-- 💬 Telegram: [@azamat0_z](https://t.me/azamat0_z)
+### 📝 Exams Web App
+
+Online platform for passing tests and checking knowledge.
+
+**Stack:**
+React • Firebase • REST API
+
+**Features:**
+
+* Authentication
+* Test system
+* Data storage
+* Responsive design
+* FSD architecture
+
+🔗 **[View Project](https://github.com/AzamatTuz/exams-web-site)**
+
+---
+
+## 🎯 Goals for 2026
+
+* Master the React ecosystem
+* Learn Next.js deeply
+* Build production-ready applications
+* Gain commercial experience
+* Contribute to open-source projects
+
+---
+
+## 📫 Contact
+
+* 📩 Email: [tuzelbajazamat361@gmail.com](mailto:tuzelbajazamat361@gmail.com)
+* 💬 Telegram: @azamat0_z
 
 ---
 
 <p align="center">
- Learning by building. Improving every day.
+💡 Learning by building. Improving every day.
 </p>
