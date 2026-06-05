@@ -69,25 +69,6 @@ React • TypeScript • Zustand • Tailwind CSS • Axios • React Router
 
 ---
 
-### 📝 Exams Web App
-
-Online platform for passing tests and checking knowledge.
-
-**Stack:**
-React • Firebase • REST API
-
-**Features:**
-
-* Authentication
-* Test system
-* Data storage
-* Responsive design
-* FSD architecture
-
-🔗 **[View Project](https://github.com/AzamatTuz/exams-web-site)**
-
----
-
 ## 🎯 Goals for 2026
 
 * Master the React ecosystem
